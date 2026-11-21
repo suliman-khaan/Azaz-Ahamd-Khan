@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://azazahmadkhan.com/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/azazandassociates.png</image:loc>
+      <image:title>Azaz &amp; Associates LLP Logo</image:title>
+      <image:caption>Azaz &amp; Associates LLP — Legal, Tax &amp; Corporate Consultants</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/image3.jpeg</image:loc>
+      <image:title>Azaz Ahmad Khan — Chief Executive, Advocate High Court, CTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/image-6.jpeg</image:loc>
+      <image:title>In Chambers at Azaz &amp; Associates LLP</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/image1.jpeg</image:loc>
+      <image:title>Certified Tax Advisor Credential Ceremony</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/image-4.jpeg</image:loc>
+      <image:title>Certificate of Recognition Ceremony in Swat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/image-5.jpeg</image:loc>
+      <image:title>Shield Award Presentation at District Bar Association Swat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://azazahmadkhan.com/image2.jpeg</image:loc>
+      <image:title>Azaz Ahmad Khan — Formal Chambers Portrait</image:title>
+    </image:image>
+  </url>
+</urlset>

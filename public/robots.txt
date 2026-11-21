@@ -1,0 +1,6 @@
+# Robots.txt for Azaz & Associates LLP
+User-agent: *
+Allow: /
+Disallow: /publications.json
+
+Sitemap: https://azazassociatesllp.com/sitemap.xml
